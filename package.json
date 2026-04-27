@@ -1,0 +1,20 @@
+{
+  "name": "aegis-will",
+  "version": "1.0.0",
+  "description": "Aegis Will — Secure Digital Will Management on Blockchain",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "ethers": "^6.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.15",
+    "hardhat": "^3.2.0",
+    "typescript": "~5.8.0",
+    "vite": "^5.4.0"
+  },
+  "type": "module"
+}

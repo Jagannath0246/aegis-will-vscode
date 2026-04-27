@@ -1,0 +1,14 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.associations": {
+    "*.sol": "solidity"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}

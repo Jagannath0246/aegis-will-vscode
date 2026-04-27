@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "JuanBlanco.solidity",
+    "ritwickdey.LiveServer",
+    "christian-kohler.path-intellisense",
+    "bradlc.vscode-tailwindcss"
+  ]
+}
